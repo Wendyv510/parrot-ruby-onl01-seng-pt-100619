@@ -2,7 +2,7 @@
 # returns the phrase
 
 def parrot (says="Squawk")
-  puts "#{says}"
+  puts_and_prints "#{says}"
 end 
 
 
